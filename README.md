@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+<p align="left">
+  Olá! Meu nome é Marcos Cesar do Patrocinio Lima[cite: 1] e atuo com desenvolvimento de software e automações com Inteligência Artificial[cite: 1]. Minha <strong>stack principal</strong> conta com Python, JavaScript, SQL e Java[cite: 1].<br>
+  No momento, curso Bacharelado em Ciência da Computação[cite: 1] e trabalho como fundador da Trayger[cite: 1], onde crio assistentes virtuais e soluções de IA sob medida para empresas[cite: 1].
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: **Python, JavaScript, PHP, Java, C#, Cobol, SQL e VBA.**[cite: 1]
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: **n8n, SAP, Gesplan, Excel, Figma, Canva, Photoshop e Vegas.**[cite: 1]
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Vamos conversar? Me mande um e-mail em contactmarcosp@gmail.com ou uma mensagem no WhatsApp (21) 97551-7551[cite: 1]. Você também me encontra no LinkedIn e GitHub! ⤵️[cite: 1]
 </p>
 
 <p align="left">
