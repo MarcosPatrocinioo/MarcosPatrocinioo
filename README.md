@@ -2,7 +2,9 @@
 
 <p align="left">
   Olá! Meu nome é Marcos Cesar do Patrocinio Lima, ou apenas Patrocínio e atuo com desenvolvimento de software e automações com Inteligência Artificial, além de também atuar no setor financeiro. Minha <strong>stack principal</strong> conta com Python, JavaScript, SQL e um pouco de Java.<br>
-  No momento, curso Bacharelado em Ciência da Computação e fundei a Trayger, onde crio assistentes virtuais e soluções de IA sob medida para empresas da Europa.
+  No momento, curso Bacharelado em Ciência da Computação e fundei a Trayger, onde crio assistentes virtuais e soluções de IA sob medida para empresas da Europa.<br>
+  A maioria dos meus projetos sao de cunho contratual e nao podem ser mostrados publicamente aqui. Conheça mais o meu trabalho em desenvolvimento de automações através da minha agência<br>
+  trayger.vercel.app
 </p>
 
 <p align="left">
